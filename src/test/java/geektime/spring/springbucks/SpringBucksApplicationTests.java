@@ -2,8 +2,6 @@ package geektime.spring.springbucks;
 
 import geektime.spring.springbucks.amqp.MsgProducer;
 import geektime.spring.springbucks.model.Coffee;
-import org.joda.money.CurrencyUnit;
-import org.joda.money.Money;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
